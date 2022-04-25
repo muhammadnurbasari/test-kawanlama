@@ -64,4 +64,5 @@ func SoalSatu(s string) {
 	fmt.Println("BERAPA BANYAK KATA SIAPA YANG DAPAT DIBENTUK ?")
 	fmt.Println("JAWABANNYA ADALAH ", result)
 	fmt.Println("======================")
+	fmt.Println("======================")
 }
